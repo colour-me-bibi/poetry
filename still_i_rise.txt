@@ -4,17 +4,10 @@ You may write me down in history
 With your bitter, twisted lies,
 You may trod me in the very dirt
 But still, like dust, I'll rise.
-<<<<<<< HEAD
-
-Does my sassiness upset you?
-Why are you beset with gloom?
-'Cause I walk like I've got oil wells
-=======
 ## Verse 2
 Why are you beset with gloom?
 'Cause I walk like I've got oil wells
 Pumping in my living room.
->>>>>>> ab4ad51 (updated verse 2)
 
 Just like moons and like suns,
 With the certainty of tides,
